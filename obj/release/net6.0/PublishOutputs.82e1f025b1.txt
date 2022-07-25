@@ -1,0 +1,5 @@
+c:\fuentes\ZbebEncrypt\bin\release\net6.0\publish\ZbebEncrypt.exe
+c:\fuentes\ZbebEncrypt\bin\release\net6.0\publish\ZbebEncrypt.dll
+c:\fuentes\ZbebEncrypt\bin\release\net6.0\publish\ZbebEncrypt.deps.json
+c:\fuentes\ZbebEncrypt\bin\release\net6.0\publish\ZbebEncrypt.runtimeconfig.json
+c:\fuentes\ZbebEncrypt\bin\release\net6.0\publish\ZbebEncrypt.pdb

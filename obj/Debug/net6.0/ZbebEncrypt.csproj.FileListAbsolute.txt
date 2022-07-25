@@ -1,0 +1,15 @@
+c:\fuentes\ZbebEncrypt\bin\Debug\net6.0\ZbebEncrypt.exe
+c:\fuentes\ZbebEncrypt\bin\Debug\net6.0\ZbebEncrypt.deps.json
+c:\fuentes\ZbebEncrypt\bin\Debug\net6.0\ZbebEncrypt.runtimeconfig.json
+c:\fuentes\ZbebEncrypt\bin\Debug\net6.0\ZbebEncrypt.dll
+c:\fuentes\ZbebEncrypt\bin\Debug\net6.0\ZbebEncrypt.pdb
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.csproj.AssemblyReference.cache
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.GeneratedMSBuildEditorConfig.editorconfig
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.AssemblyInfoInputs.cache
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.AssemblyInfo.cs
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.csproj.CoreCompileInputs.cache
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.dll
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\refint\ZbebEncrypt.dll
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.pdb
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ZbebEncrypt.genruntimeconfig.cache
+c:\fuentes\ZbebEncrypt\obj\Debug\net6.0\ref\ZbebEncrypt.dll
